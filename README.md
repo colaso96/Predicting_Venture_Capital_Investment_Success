@@ -11,3 +11,5 @@ We stated this by setting our search parameters to the following:
         Once public, an Exit Opportunity is always available and assumes success. 
     Has had more than 7 funding rounds. 
         Indicates that the startup still has potential and growth. 
+        
+        
